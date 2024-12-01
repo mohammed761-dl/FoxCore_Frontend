@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rcher\\source\\repos\\MED-YSS-ERP-Frontend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AAE1E5-E7DF-4C27-ABF1-7F08B5E7CD36}|FoxCore_Frontend.csproj|c:\\users\\rcher\\source\\repos\\med-yss-erp-frontend\\pages\\common\\landingpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6AAE1E5-E7DF-4C27-ABF1-7F08B5E7CD36}|FoxCore_Frontend.csproj|solutionrelative:pages\\common\\landingpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AAE1E5-E7DF-4C27-ABF1-7F08B5E7CD36}|FoxCore_Frontend.csproj|c:\\users\\rcher\\source\\repos\\med-yss-erp-frontend\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6AAE1E5-E7DF-4C27-ABF1-7F08B5E7CD36}|FoxCore_Frontend.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AAE1E5-E7DF-4C27-ABF1-7F08B5E7CD36}|FoxCore_Frontend.csproj|c:\\users\\rcher\\source\\repos\\med-yss-erp-frontend\\wwwroot\\css\\tailwind.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E6AAE1E5-E7DF-4C27-ABF1-7F08B5E7CD36}|FoxCore_Frontend.csproj|solutionrelative:wwwroot\\css\\tailwind.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AAE1E5-E7DF-4C27-ABF1-7F08B5E7CD36}|FoxCore_Frontend.csproj|c:\\users\\rcher\\source\\repos\\med-yss-erp-frontend\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E6AAE1E5-E7DF-4C27-ABF1-7F08B5E7CD36}|FoxCore_Frontend.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AAE1E5-E7DF-4C27-ABF1-7F08B5E7CD36}|FoxCore_Frontend.csproj|c:\\users\\rcher\\source\\repos\\med-yss-erp-frontend\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E6AAE1E5-E7DF-4C27-ABF1-7F08B5E7CD36}|FoxCore_Frontend.csproj|solutionrelative:wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AAE1E5-E7DF-4C27-ABF1-7F08B5E7CD36}|FoxCore_Frontend.csproj|c:\\users\\rcher\\source\\repos\\med-yss-erp-frontend\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6AAE1E5-E7DF-4C27-ABF1-7F08B5E7CD36}|FoxCore_Frontend.csproj|solutionrelative:app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AAE1E5-E7DF-4C27-ABF1-7F08B5E7CD36}|FoxCore_Frontend.csproj|c:\\users\\rcher\\source\\repos\\med-yss-erp-frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AAE1E5-E7DF-4C27-ABF1-7F08B5E7CD36}|FoxCore_Frontend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AAE1E5-E7DF-4C27-ABF1-7F08B5E7CD36}|FoxCore_Frontend.csproj|c:\\users\\rcher\\source\\repos\\med-yss-erp-frontend\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E6AAE1E5-E7DF-4C27-ABF1-7F08B5E7CD36}|FoxCore_Frontend.csproj|solutionrelative:tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Rcher\\source\\repos\\MED-YSS-ERP-Frontend\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Rcher\\source\\repos\\MED-YSS-ERP-Frontend\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-01T19:18:20.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Rcher\\source\\repos\\MED-YSS-ERP-Frontend\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\Rcher\\source\\repos\\MED-YSS-ERP-Frontend\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "wwwroot\\css\\style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-01T19:17:59.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Rcher\\source\\repos\\MED-YSS-ERP-Frontend\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\Rcher\\source\\repos\\MED-YSS-ERP-Frontend\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "wwwroot\\css\\app.css",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-01T19:17:54.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Rcher\\source\\repos\\MED-YSS-ERP-Frontend\\App.razor",
+              "RelativeDocumentMoniker": "App.razor",
+              "ToolTip": "C:\\Users\\Rcher\\source\\repos\\MED-YSS-ERP-Frontend\\App.razor",
+              "RelativeToolTip": "App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T19:12:27.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rcher\\source\\repos\\MED-YSS-ERP-Frontend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Rcher\\source\\repos\\MED-YSS-ERP-Frontend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T19:12:20.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "tailwind.config.js",
+              "DocumentMoniker": "C:\\Users\\Rcher\\source\\repos\\MED-YSS-ERP-Frontend\\tailwind.config.js",
+              "RelativeDocumentMoniker": "tailwind.config.js",
+              "ToolTip": "C:\\Users\\Rcher\\source\\repos\\MED-YSS-ERP-Frontend\\tailwind.config.js",
+              "RelativeToolTip": "tailwind.config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-01T19:12:17.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LandingPage.razor",
+              "DocumentMoniker": "C:\\Users\\Rcher\\source\\repos\\MED-YSS-ERP-Frontend\\Pages\\Common\\LandingPage.razor",
+              "RelativeDocumentMoniker": "Pages\\Common\\LandingPage.razor",
+              "ToolTip": "C:\\Users\\Rcher\\source\\repos\\MED-YSS-ERP-Frontend\\Pages\\Common\\LandingPage.razor",
+              "RelativeToolTip": "Pages\\Common\\LandingPage.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T17:34:15.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tailwind.css",
+              "DocumentMoniker": "C:\\Users\\Rcher\\source\\repos\\MED-YSS-ERP-Frontend\\wwwroot\\css\\tailwind.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\tailwind.css",
+              "ToolTip": "C:\\Users\\Rcher\\source\\repos\\MED-YSS-ERP-Frontend\\wwwroot\\css\\tailwind.css",
+              "RelativeToolTip": "wwwroot\\css\\tailwind.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-01T19:18:16.919Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

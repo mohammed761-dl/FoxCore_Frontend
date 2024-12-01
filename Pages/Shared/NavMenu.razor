@@ -1,0 +1,110 @@
+﻿@inherits LayoutComponentBase
+<div class="top-row ps-3 navbar navbar-dark bg-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">FoxCore</a>
+        <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    </div>
+</div>
+
+
+
+<div class="@NavMenuCssClass nav-scrollable">
+    <nav class="flex-column">
+        <!-- Home Link -->
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="/" Match="NavLinkMatch.All">
+                <span class="bi bi-house-door-fill" aria-hidden="true"></span> Home
+            </NavLink>
+        </div>
+
+        <!-- Inventory Management -->
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="/inventory">
+                <span class="bi bi-box-seam" aria-hidden="true"></span> Inventory Management
+            </NavLink>
+        </div>
+
+        <!-- Manufacturing -->
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="/manufacturing">
+                <span class="bi bi-tools" aria-hidden="true"></span> Manufacturing
+            </NavLink>
+        </div>
+
+        <!-- Sales and Orders -->
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="/sales">
+                <span class="bi bi-cart-fill" aria-hidden="true"></span> Sales and Orders
+            </NavLink>
+        </div>
+
+        <!-- Purchasing -->
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="/purchasing">
+                <span class="bi bi-bag-fill" aria-hidden="true"></span> Purchasing
+            </NavLink>
+        </div>
+
+        <!-- Human Resources -->
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="/hr">
+                <span class="bi bi-people-fill" aria-hidden="true"></span> Human Resources (HR)
+            </NavLink>
+        </div>
+
+        <!-- Finance -->
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="/finance">
+                <span class="bi bi-cash-stack" aria-hidden="true"></span> Finance
+            </NavLink>
+        </div>
+
+        <!-- Logistics -->
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="/logistics">
+                <span class="bi bi-truck" aria-hidden="true"></span> Logistics
+            </NavLink>
+        </div>
+
+        <!-- Quality Control -->
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="/quality">
+                <span class="bi bi-check-circle-fill" aria-hidden="true"></span> Quality Control
+            </NavLink>
+        </div>
+
+        <!-- Maintenance -->
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="/maintenance">
+                <span class="bi bi-wrench" aria-hidden="true"></span> Maintenance
+            </NavLink>
+        </div>
+
+        <!-- Settings -->
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="/settings">
+                <span class="bi bi-gear-fill" aria-hidden="true"></span> Settings
+            </NavLink>
+        </div>
+
+        <!-- Logout -->
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="/logout">
+                <span class="bi bi-box-arrow-right" aria-hidden="true"></span> Logout
+            </NavLink>
+        </div>
+    </nav>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}

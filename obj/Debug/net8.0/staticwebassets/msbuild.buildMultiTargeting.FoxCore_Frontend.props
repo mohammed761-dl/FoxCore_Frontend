@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FoxCore_Frontend.props" />
+</Project>

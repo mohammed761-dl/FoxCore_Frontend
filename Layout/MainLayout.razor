@@ -1,0 +1,31 @@
+﻿@inherits LayoutComponentBase
+
+<div class="page d-flex">
+    <!-- Sidebar -->
+    <div class="sidebar bg-dark text-white">
+        <NavMenu />
+    </div>
+
+    <!-- Main Content -->
+    <main class="content-wrapper flex-fill">
+
+
+        <!-- Main Content Area -->
+        <div class="content px-4 py-3">
+            <article class="content-body">
+                @Body
+            </article>
+        </div>
+    </main>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}
